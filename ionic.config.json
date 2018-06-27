@@ -1,0 +1,8 @@
+{
+  "name": "realapp",
+  "app_id": "e8ce1129",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
